@@ -16,6 +16,11 @@
   url: category/cooking.html
   icon: assets/cooking.svg
   hue: "var(--c-themeHueBlue)"
+  subnav:
+    - title: Recipes 
+      url: category/cooking/recipes.html
+      hue: "var(--c-themeHueGreenShade)"
+  
 
 - title: Hiking
   url: category/hiking.html
