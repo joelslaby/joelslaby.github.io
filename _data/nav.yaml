@@ -1,0 +1,20 @@
+- title: Boardgaming
+  url: category/boardgaming.html
+  icon: assets/boardgaming.svg
+  hue: "var(--c-themeHueRed)"
+- title: Climbing #Menu item title.
+  url: category/climbing.html #Menu item url.
+  icon: assets/climbing.svg #Menu item icon.
+  hue: "var(--c-themeHueGreen)" #Menu item hue - see note [1].
+- title: Cooking
+  url: category/cooking.html
+  icon: assets/cooking.svg
+  hue: "var(--c-themeHueBlue)"
+- title: Hiking
+  url: category/hiking.html
+  icon: assets/hiking.svg
+  hue: "var(--c-themeHueOrange)"
+- title: Meta
+  url: category/meta.html
+  icon: assets/meta.svg
+  hue: "var(--c-themeHuePurple)"
