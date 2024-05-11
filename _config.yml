@@ -1,11 +1,17 @@
-title: Chaotic Happenings
-author:
-  name: Joel Slaby
-  email: dne
-description: cogito, ergo sum
-plugins:
-  - jekyll-feed
-theme: minima
-minima:
-  social_links:
-    - { platform: github,  user_url: "https://github.com/joelslaby" }
+theme: jekyll-theme-simplex
+logo_img: /assets/title_logo.svg
+copyright: © Slaby 2024 #Your copyright.
+
+collections:
+    category:
+        output: true
+    authors:
+        output: false
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"
