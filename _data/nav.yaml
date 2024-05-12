@@ -1,11 +1,11 @@
 - title: Boardgaming
   url: category/boardgaming.html
-  icon: assets/boardgaming.svg
+  icon: assets/boardgaming/boardgaming.svg
   hue: "var(--c-themeHueRed)"
 
 - title: Climbing
   url: category/climbing.html
-  icon: assets/climbing.svg
+  icon: assets/climbing/climbing.svg
   hue: "var(--c-themeHueGreen)"
   subnav:
       - title: Competition 
@@ -14,20 +14,24 @@
 
 - title: Cooking
   url: category/cooking.html
-  icon: assets/cooking.svg
+  icon: assets/cooking/cooking.svg
   hue: "var(--c-themeHueBlue)"
   subnav:
     - title: Recipes 
       url: category/cooking/recipes.html
-      hue: "var(--c-themeHueGreenShade)"
+      hue: "var(--c-themeHueBlueShade)"
   
 
 - title: Hiking
   url: category/hiking.html
-  icon: assets/hiking.svg
+  icon: assets/hiking/hiking.svg
   hue: "var(--c-themeHueOrange)"
+  subnav:
+      - title: Past Trips 
+        url: category/hiking/past_trips.html
+        hue: "var(--c-themeHueOrangeShade)"
 
 - title: Meta
   url: category/meta.html
-  icon: assets/meta.svg
+  icon: assets/meta/meta.svg
   hue: "var(--c-themeHuePurple)"
