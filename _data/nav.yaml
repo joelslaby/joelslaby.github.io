@@ -2,6 +2,10 @@
   url: category/boardgaming.html
   icon: assets/boardgaming/boardgaming.svg
   hue: "var(--c-themeHueRed)"
+  subnav:
+      - title: Puzzles 
+        url: category/boardgaming/puzzles.html
+        hue: "var(--c-themeHueRedShade)"
 
 - title: Climbing
   url: category/climbing.html
