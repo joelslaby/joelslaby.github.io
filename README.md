@@ -1,8 +1,14 @@
 # joelslaby.github.io
 
-to run rvm:
+### installation on MacOS
+1. [Installing Jekyll Tutorial](https://jekyllrb.com/docs/installation/macos/)
+
+#### Deploying website
+
+windows only?
 source /home/jslaby/.rvm/scripts/rvm
 
+Mac + Windows
 to run website:
 bundle install
 bundle exec jekyll serve --livereload

@@ -7,15 +7,6 @@
         url: category/boardgaming/puzzles.html
         hue: "var(--c-themeHueRedShade)"
 
-- title: Climbing
-  url: category/climbing.html
-  icon: assets/climbing/climbing.svg
-  hue: "var(--c-themeHueGreen)"
-  subnav:
-      - title: Competition 
-        url: category/climbing/competition.html
-        hue: "var(--c-themeHueGreenShade)"
-
 - title: Cooking
   url: category/cooking.html
   icon: assets/cooking/cooking.svg
@@ -34,6 +25,20 @@
       - title: Past Trips 
         url: category/hiking/past_trips.html
         hue: "var(--c-themeHueOrangeShade)"
+
+- title: Climbing
+  url: category/climbing.html
+  icon: assets/climbing/climbing.svg
+  hue: "var(--c-themeHueGreen)"
+  subnav:
+      - title: Competition 
+        url: category/climbing/competition.html
+        hue: "var(--c-themeHueGreenShade)"
+
+- title: Cycling
+  url: category/cycling.html
+  icon: assets/cycling/cycling.svg
+  hue: "var(--c-themeHuePink)"
 
 - title: Meta
   url: category/meta.html
