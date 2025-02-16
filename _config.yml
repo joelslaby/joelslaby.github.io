@@ -2,7 +2,7 @@ theme: jekyll-theme-simplex
 logo_img: /assets/title_logo.svg
 title: Chaotic Hobbies
 description: "One stop shop to catalog memories, ideas, and plans relating to my hobbies. I don't enjoy writing as much, so posts will tend to focus on the visual side of documentation."
-copyright: © Slaby 2024 #Your copyright.
+copyright: © Slaby 2024
 
 collections:
     category:
